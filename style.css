@@ -1,9 +1,16 @@
+body {
+  display: flex;
+  gap: 20px;
+}
+
 .purple {
   background-color: purple;
   width: 50px;
   height: 50px;
   border: 1px solid black;
-  text-align: center;}
+  text-align: center;
+}
+
 
 
 .yellow-box {
@@ -17,13 +24,22 @@
     width: 23px;
     height: 23px;
     border: none;
-    background-color: #FFECBB;
+    background-color: #FFECBB; 
+}
 
+.title {
+  width: 50px;
+  height: 50px;
+  border: none;
+  background-color: #FFECBB;
+  border: 1px solid #000; 
+  text-align: center;
 }
 
 .blue-box {
     background-color: #84CEF9;
-    width: 46px;
-    height: 47px;
+    width: 50px;
+    height: 50px;
     border: 1px solid #000;
+    text-align: center;
 }
