@@ -19,4 +19,10 @@
     position: absolute;
     top: 218px;
     left: 709px;
+
+.blue-box{
+    background-color: #84CEF9;
+    width: 46px;
+    height: 47px;
+    border: 1px solid #000;
 }
