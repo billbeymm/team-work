@@ -8,7 +8,11 @@
   box-sizing: border-box;
 }
 
-
+.home-yellow {
+  width: 226px;
+  height: 337px;
+  background-color: #FFECBB;
+}
 
 
 /* body {
