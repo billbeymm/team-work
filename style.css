@@ -13,31 +13,18 @@ body {
 
 
 .title {
-    height: 1533px;
-
-}
-.yellow {
-    width: 23px;
-    height: 23px;
-    border: none;
-    background-color: #FFECBB;
-    position: absolute;
-    top: 218px;
-    left: 664px;
-
-}
-.nurel {
-    font-family: 'Lato', sans-serif;
-    margin-left: 22px;
-    font-size: 18px;
-    position: absolute;
-    top: 218px;
-    left: 709px;
+  width: 50px;
+  height: 50px;
+  border: none;
+  background-color: #FFECBB;
+  border: 1px solid #000; 
+  text-align: center;
 }
 
 .blue-box {
     background-color: #84CEF9;
-    width: 46px;
-    height: 47px;
+    width: 50px;
+    height: 50px;
     border: 1px solid #000;
+    text-align: center;
 }
